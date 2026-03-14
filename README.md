@@ -96,11 +96,16 @@ Department · Age Group · Income Band · Tenure Band · Overtime Status
 ## 📸 Dashboard Preview
 
 
-![Dashboard Preview Page 1](Dashboard images/dashboard_preview_1.png)
+## 📸 Dashboard Preview
 
-![Dashboard Preview Page 2](Dashboard images/dashboard_preview_2.png)
+**Page 1**
+![Dashboard Preview Page 1](Dashboard%20images/dashboard_preview_1.png)
 
-![Dashboard Preview Page 3](Dashboard images/dashboard_preview_3.png)
+**Page 2**
+![Dashboard Preview Page 2](Dashboard%20images/dashboard_preview_2.png)
+
+**Page 3**
+![Dashboard Preview Page 3](Dashboard%20images/dashboard_preview_3.png)
 
 
 ```
