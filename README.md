@@ -98,7 +98,7 @@ Department · Age Group · Income Band · Tenure Band · Overtime Status
 > *Screenshot coming soon — add your Power BI dashboard image here.*
 
 ```
-[ Insert Dashboard Screenshot ]
+
 ```
 
 ---
